@@ -1,0 +1,2 @@
+# OOPProjectInventorySystem
+Simple and Basic
